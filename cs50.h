@@ -106,3 +106,9 @@ long long GetLongLong(void);
 string GetString(void);
 
 #endif
+#include <cs50.h>
+{
+  printf("Hello, world!")
+  if printf("Hello, world!")
+  else #endif
+}
